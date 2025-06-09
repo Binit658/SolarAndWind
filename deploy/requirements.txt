@@ -1,0 +1,7 @@
+geopy
+joblib
+pandas
+scikit-learn
+fastapi
+requests
+xgboost

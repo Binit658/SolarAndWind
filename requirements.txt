@@ -1,6 +1,9 @@
 pandas
 numpy
 scikit-learn
+ipykernel
+matplotlib
+
 plotly
 nbformat
 tensorflow==2.10.3
