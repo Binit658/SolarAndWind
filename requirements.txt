@@ -3,7 +3,6 @@ numpy
 scikit-learn
 ipykernel
 matplotlib
-
+xgboost
 plotly
 nbformat
-tensorflow==2.10.3
